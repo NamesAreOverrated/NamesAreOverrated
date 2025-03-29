@@ -6,16 +6,18 @@
     <img src="https://img.shields.io/badge/website-grey?style=for-the-badge&logo=github" alt="GitHub Pages"/>
   </a>
   <a href="mailto:NamesAreOverrated.GitHub@outlook.com">
-    <img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=mailboxdotorg&logoColor=f5f5f5" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=mailboxdotorg&logoColor=f5f5f5" alt="Email"/>
   </a>
 </div>
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ1NTBiMzgxN2VmODY1NGE3MTgxNGI2NDZlNmJmMTcyYTEzY2JkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/nDSlfqf0gn5g4/giphy.gif" width="180">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ1NTBiMzgxN2VmODY1NGE3MTgxNGI2NDZlNmJmMTcyYTEzY2JkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/nDSlfqf0gn5g4/giphy.gif" width="200">
 
 - 🎮 Game Developer who enjoys graphics programming
 - 🔌 Electronics and embedded systems enthusiast
+
+
   
 <br>
 
