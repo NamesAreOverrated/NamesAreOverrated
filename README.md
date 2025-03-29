@@ -10,6 +10,7 @@
 
 - 🎮 Game Developer who enjoys graphics programming
 - 🔌 Electronics and embedded systems enthusiast
+- 🌐 Website: [NamesAreOverrated.github.io](https://NamesAreOverrated.github.io)
 - 📫 Contact: **NamesAreOverrated.GitHub@outlook.com**
 
 <br>
