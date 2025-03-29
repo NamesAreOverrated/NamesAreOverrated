@@ -14,7 +14,10 @@
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ1NTBiMzgxN2VmODY1NGE3MTgxNGI2NDZlNmJmMTcyYTEzY2JkZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/nDSlfqf0gn5g4/giphy.gif" width="200">
 
+
+
 - 🎮 Game Developer who enjoys graphics programming
+  
 - 🔌 Electronics and embedded systems enthusiast
 
 
