@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/website-grey?style=for-the-badge&logo=github" alt="GitHub Pages"/>
   </a>
   <a href="mailto:NamesAreOverrated.GitHub@outlook.com">
-    <img src="https://img.shields.io/badge/Email-green?style=for-the-badge&logo=mailboxdotorg&logoColor=f5f5f5" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=mailboxdotorg&logoColor=f5f5f5" alt="Email"/>
   </a>
 </div>
 
