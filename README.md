@@ -2,6 +2,8 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZhanNobmFzNHp2OW5jNHJvYnA0bGZmcWtxMmZobjdrcDgzYmdpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zfxTR88A6x6cE/giphy.gif" width="200"/>
   <h3>Hi there👋</h3>
+  [![GitHub Pages](https://img.shields.io/badge/Website-NamesAreOverrated.github.io-blue?style=for-the-badge&logo=github)](https://NamesAreOverrated.github.io)
+  [![Email](https://img.shields.io/badge/Email-NamesAreOverrated.GitHub@outlook.com-red?style=for-the-badge&logo=microsoft-outlook)](mailto:NamesAreOverrated.GitHub@outlook.com)
 </div>
 
 ## About Me
